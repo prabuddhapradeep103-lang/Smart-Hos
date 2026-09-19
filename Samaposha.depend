@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1789834842 source:c:\users\prabu\desktop\c\practice\samaposha\hospital.c
+	"hospital.h"
+
+1789827118 c:\users\prabu\desktop\c\practice\samaposha\hospital.h
+	<stdio.h>
+	<string.h>
+
+1789830069 source:c:\users\prabu\desktop\c\practice\samaposha\main.c
+	"hospital.h"
+
